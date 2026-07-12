@@ -1,0 +1,6 @@
+numpy>=1.23
+pandas>=1.5
+scikit-learn>=1.2
+# optional, enables --features esm (ESM-2 protein language model embeddings):
+# fair-esm>=2.0
+# torch>=2.0
